@@ -115,7 +115,9 @@ Passed:  24
 Failed:  0
 Errors:  0
 ```
+### Postman Collection Runner
 
+![Postman Collection Runner - 24 tests passed](postman-runner-results.png)
 The complete flow was successfully executed from a clean environment without manually providing a token or booking ID.
 
 ## 🎯 Project Purpose
